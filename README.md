@@ -7,7 +7,7 @@
 
 # Consejo de Estudiantes de la Facultad de Ciencias
 
-El Consejo de Estudiantes de Ciencias es el órgano de representación del estudiantado de la Facultad de Ciencias de la Universidad de Zaragoza. Reúne a los representantes de todas las titulaciones de la Facultad y coordina su participación en la Junta de Facultad, sus comisiones y el Consejo de Estudiantes de la Universidad.
+El Consejo de Estudiantes de Ciencias es el órgano de representación del estudiantado de la Facultad de Ciencias de la Universidad de Zaragoza. Reúne a los representantes de todas las titulaciones de la Facultad y coordina su participación en el Consejo de Facultad, sus comisiones y el Consejo de Estudiantes de la Universidad.
 
 Aquí publicamos el código y las herramientas que usamos para trabajar con transparencia.
 
